@@ -49,4 +49,4 @@ Run the following command before running `todolist` command.
 
 # Testing the app
 
-- `ginkgo -race ./...`
+- `ginkgo -race -tags e2e ./...`
